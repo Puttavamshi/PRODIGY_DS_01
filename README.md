@@ -25,6 +25,9 @@ In this task, I analyzed global population data and created a visualization of t
 * Handling real-world datasets
 * Data visualization techniques
 * Adding data labels for better readability
+## 📂 Dataset
+
+[Download Dataset](population.csv)
 
 ## 🌍 Insight
 
