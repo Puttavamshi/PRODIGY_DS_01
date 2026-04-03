@@ -33,7 +33,7 @@ In this task, I analyzed global population data and created a visualization of t
 
 India has surpassed China as the most populous country in 2024.
 
-## ## 📊 Visualization Output
+## 📊 Visualization Output
 
 <img width="1299" height="626" alt="Output" src="https://github.com/user-attachments/assets/8dcb15af-2448-4411-a493-0e028e02a0a3" />
 
